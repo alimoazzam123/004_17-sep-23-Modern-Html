@@ -1,0 +1,16 @@
+Q2 What are Html Entities? list out 5 commonly used Html entities.
+Ans=Entities are character sequences placed in the text of an HTML 
+    document to print out reserved characters which may otherwise 
+    be interpreted as HTML code by a browser, or other special 
+    characters that would be difficult to generate with a typical keyboard
+   ->5 Commonly Used HTML Entities:
+    (1)&lt; - Represents the less-than symbol <.
+      Example: <p>This is an example &lt;em&gt;text&lt;/em&gt;.</p>
+    (2)&gt; - Represents the greater-than symbol >.
+      Example: <p>For more information, visit our website &gt; <a href="#">here</a>.</p>
+    (3)&amp; - Represents the ampersand symbol &.
+      Example: <p>For further details, contact us &amp; we'll assist you.</p>
+    (4)&quot; - Represents a double quotation mark "
+      Example: <p>The title of the book is "The Great Gatsby".</p>
+    (5)&copy; - Represents the copyright symbol ©.
+      Example: <p>&copy; 2023 ACME Corporation. All rights reserved.</p>

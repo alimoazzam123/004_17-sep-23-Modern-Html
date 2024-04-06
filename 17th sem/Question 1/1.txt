@@ -1,0 +1,15 @@
+Q1 list out the feature of html 5
+Ans=(1)Audio & Video Tags:
+       With Audio and Video tags, developers can embed videos or audio into their
+       websites. For styling the video tag, developers can use CSS and CSS3
+    (2)Header:
+       The element in HTML5 contains introductory content. It can include a set of
+       introductory or navigational support on a website. Typically, the header element 
+       contains heading elements, logos or icons, a search form, author’s information, etc.
+    (3)Mark:
+       The <mark> element highlights a particular text of special interest to the user in an HTML document.
+    (4)Main Tag:
+       This tag defines the important content of the <body> of a document
+    (5)Progress Tag:
+       The progress tag helps users check the progress of a task during the execution. Users will need to define
+       the dynamically changing values of the progress bar with the scripts (JavaScript).            
